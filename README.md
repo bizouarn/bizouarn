@@ -22,5 +22,5 @@ You can see project hosted in github on [https://bizouarn.github.io/](https://bi
 <!------------------------
 (\_/)
 (°_°)
-/ > Aymeric Bizouarn 2021 ©
+/ > Aymeric Bizouarn 2022 ©
 --------------------------!>
