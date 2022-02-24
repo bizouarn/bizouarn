@@ -12,7 +12,7 @@ You can see project hosted in github on [https://bizouarn.github.io/](https://bi
 - Mail : [aymeric.bizouarn@hotmail.fr](mailto://aymeric.bizouarn@hotmail.fr)
 - telegram : [@bizouarn](https://t.me/bizouarn)
 
-⚡ Fun fact: Laissons entrer le soleil, la terre vous dit : hello !
+⚡ Fun fact: Let the sun in. ☀ the earth says : hello ! 👋
 
 
 <!--
