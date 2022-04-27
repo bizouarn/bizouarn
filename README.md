@@ -5,6 +5,7 @@
 - [Planning IUT](https://planning.bizouarn.fr/)
 - [Color converter](https://bizouarn.github.io/Color-converter-GUI/)
 - [Quoridor game in java](https://github.com/bizouarn/Quoridor) with [@PxRazhor](https://github.com/PxRazhor) 
+- [Status bot](https://github.com/bizouarn/Status-bot.git)
 
 You can see project hosted in github on [https://bizouarn.github.io/](https://bizouarn.github.io/)
 
