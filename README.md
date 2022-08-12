@@ -6,8 +6,9 @@
 - [Color converter](https://bizouarn.github.io/Color-converter-GUI/)
 - [Quoridor game in java](https://github.com/bizouarn/Quoridor) with [@PxRazhor](https://github.com/PxRazhor) 
 - [Status bot](https://github.com/bizouarn/Status-bot.git)
+... and more
 
-You can see project hosted in github on [https://bizouarn.github.io/](https://bizouarn.github.io/)
+You can see my project hosted in github on [https://bizouarn.github.io/](https://bizouarn.github.io/)
 
 ### 📫 How to reach me :
 - Mail : [aymeric.bizouarn@hotmail.fr](mailto://aymeric.bizouarn@hotmail.fr)
