@@ -1,5 +1,6 @@
 # Hi there 👋
-## I'm Aymeric BIZOUARN
+## I'm Aymeric BIZOUARN 🇫🇷
+Full stack developer at HERAKLES ERP Vannes
 
 ### 🔭 My project :  
 - [Planning IUT](https://github.com/bizouarn/Planning-IUT.git)
