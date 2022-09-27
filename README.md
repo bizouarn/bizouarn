@@ -12,7 +12,7 @@ Full stack developer at HERAKLES ERP Vannes
 You can see my project hosted in github on [https://bizouarn.github.io/](https://bizouarn.github.io/)
 
 ### 📫 How to reach me :
-- Mail : [aymeric.bizouarn@hotmail.fr](mailto://aymeric.bizouarn@hotmail.fr)
+- Mail : [aymeric@bizouarn.fr](mailto://aymeric@bizouarn.fr)
 - telegram : [@bizouarn](https://t.me/bizouarn)
 
 ⚡ Fun fact: Good Morning Starshine, ☀ the earth says : hello ! 👋
