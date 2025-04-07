@@ -1,13 +1,13 @@
 # Hi there 👋
 ## I'm Aymeric BIZOUARN 🇫🇷
-Développeur full stack chez [HERAKLES](https://herakles.com/) ERP à Vannes.
+Full stack developer at [HERAKLES](https://herakles.com/) ERP in Vannes.
 
-Je travaille sur une solution ERP développée en interne, où j'interviens sur l’ensemble de la stack : frontend, backend, base de données, automatisation et déploiement.
-Avec plusieurs années d’expérience en développement logiciel, je me suis spécialisé dans l’intégration continue (CI/CD), les architectures cloud SaaS ☁️ et l’intégration d’outils de dataviz 📈.
+I'm working on an ERP solution, where I'm involved in the whole stack: frontend, backend, database, automation and deployment.
+With several years' experience in software development, I specialize in continuous integration (CI/CD), SaaS cloud architectures ☁️ and the integration of dataviz tools 📈.
 
-J’ai eu l’occasion de travailler avec un éventail de technologies — parfois modernes, parfois plus... atypiques — ce qui m’a appris à m’adapter rapidement à tout environnement technique.
+I've had the opportunity to work with a range of technologies - sometimes modern, sometimes more... atypical - which has taught me to adapt quickly to any technical environment.
 
-En parallèle, je développe régulièrement des projets personnels, pour tester de nouvelles idées, explorer des technologies ou simplement par plaisir.
+In parallel, I regularly develop personal projects, to test new ideas, explore technologies or simply for pleasure.
 
 ### 🔭 My project :  
 - [Planning IUT](https://github.com/bizouarn/Planning-IUT.git)
